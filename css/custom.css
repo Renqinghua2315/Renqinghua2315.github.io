@@ -155,7 +155,7 @@
 #nav .menus_items {
     position: absolute !important;
     width: fit-content !important;
-    left: 50% !important;
+    left: 60% !important;
     transform: translateX(-50%) !important;
   }
   /* 子菜单横向展示 */
