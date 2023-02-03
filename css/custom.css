@@ -1,3 +1,17 @@
+/* 个人信息卡片背景图 */
+[data-theme="light"] #aside-content > .card-widget.card-info {
+  background-image: url(https://s1.ax1x.com/2023/02/01/pSDEpCV.jpg);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+[data-theme="dark"] #aside-content > .card-widget.card-info {
+  background-image: url(https://s1.ax1x.com/2023/02/03/pSseG5j.jpg);
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-size: 100%;
+}
+
 /* 小冰分类分类磁铁黑夜模式适配 */
 /* 一般状态 */
 [data-theme="dark"] .magnet_link_context {
